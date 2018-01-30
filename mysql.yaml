@@ -1,0 +1,4 @@
+mysql:
+  host: localhost
+  user: root
+  password: 9326995
