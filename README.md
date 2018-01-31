@@ -1,13 +1,13 @@
 # WITYPI 
 
-__WI__kipedia__T__erminolog__YPI__cker
+__WI__ kipedia __T__ erminolog __YPI__ cker
 
 *****
 
-![PyPI status](https://img.shields.io/badge/python-3.5.2-yellow.svg )
-![PyPI status](https://img.shields.io/badge/stage-alpha-green.svg ) 
-![PyPI status](https://img.shields.io/badge/licence-CC-red.svg ) 
-![PyPI status](https://img.shields.io/badge/version-1.0.0-blue.svg ) 
+![PyPI status](https://img.shields.io/badge/python-3-yellow.svg)
+![PyPI status](https://img.shields.io/badge/stage-alpha-green.svg)
+![PyPI status](https://img.shields.io/badge/licence-CC-red.svg)
+![PyPI status](https://img.shields.io/badge/version-1.0.0-blue.svg)
 
 *****
 
