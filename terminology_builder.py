@@ -43,7 +43,7 @@ class Builder(object):
 
 	def __init__(self):
 		print()
-		with open('./configuration.yaml', 'r') as config_file:
+		with open('./configurations/configuration.yaml', 'r') as config_file:
 			self.configuration = yaml.load(config_file)
 		# NLP
 		self.stopwords = set(stopwords.words('english') + ['false', 'true', 'ext', 'doi'])
@@ -54,7 +54,7 @@ class Builder(object):
 		self.download_url = 'https://dumps.wikimedia.org/enwiki/latest/'
 		self.requiered_filenames = ['enwiki-latest-categorylinks.sql.gz', 'enwiki-latest-category.sql.gz', 'enwiki-latest-page.sql.gz']
 		# SQL CONNECTION
-		with open('./mysql.yaml', 'r') as mysql_config_file:
+		with open('./configurations/mysql.yaml', 'r') as mysql_config_file:
 			self.mysql_file = yaml.load(mysql_config_file)
 		self.mysql_config = {
 			'host': str(self.mysql_file['mysql']['host']),
@@ -166,7 +166,7 @@ class Builder(object):
 		labels = range(len(graph))
 		edge_labels = dict(zip(graph, labels))
 		nx.draw_networkx_edge_labels(G, graph_pos, edge_labels=edge_labels, label_pos=edge_text_pos)
-		plt.savefig('./wikipedia_ontology_{}.png'.format(title))
+		plt.savefig('./terminologies/wikipedia_ontology_{}.png'.format(title))
 
 	def build_step(self, relations, parent_name, connection, categories_linked):
 		"""Build a link between two categories"""
@@ -324,7 +324,7 @@ class Builder(object):
 
 	def write_terminology(self, terminology, top_term):
 		"""Write a simple JSON file containing our terminology"""
-		with open('./{}_terminology.json'.format(top_term), 'w') as json_file:
+		with open('./terminologies/{}_terminology.json'.format(top_term), 'w') as json_file:
 			json_file.write(json.dumps(terminology, sort_keys=True, indent=2, ensure_ascii=False))
 		print('Terminology has been written to file [./{}_terminology.json]'.format(top_term))
 		print()
