@@ -33,6 +33,6 @@ Then, by using pip3 after sourcing your virtualenv:
 
 ## LAUNCH
 
-Simply launch:
+Simply launch
 
 	python3 __main__.py
