@@ -31,6 +31,10 @@ Then, by using pip3 after sourcing your virtualenv:
 
 	pip3 install -r requierement.txt
 
+## CONFIGURATION
+
+blabla
+
 ## LAUNCH
 
 Simply launch
