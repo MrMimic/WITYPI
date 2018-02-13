@@ -1,6 +1,6 @@
 # WITYPI 
 
-__WI__ kipedia __T__ erminolog __YPI__ cker
+__WI__ kipedia  .  __T__ erminolog __Y  .  PI__ cker
 
 *****
 
@@ -12,7 +12,7 @@ __WI__ kipedia __T__ erminolog __YPI__ cker
 
 ## ABOUT
 
-WITYPI is a Python3 project aiming to automatically design a terminology by using the Wikipedia's DB.
+WITYPI is a Python3 project aiming to automatically design a terminology by using the Wikipedia's DB (unsuppervised).
 
 On Wiki, categories are linked together, and pages belong to these categories.
 
@@ -29,8 +29,12 @@ Then, by using pip3 after sourcing your virtualenv:
 
 	pip3 install -r requierement.txt
 
+## CONFIGURATION
+
+blabla
+
 ## LAUNCH
 
-Simply launch:
+Simply launch
 
 	python3 __main__.py
