@@ -1,0 +1,3030 @@
+{
+  "Batman": {
+    "linked_categories": [
+      "Comics_set_in_fictional_populated_places",
+      "DC_Comics_superheroes",
+      "Masks_in_fiction",
+      "Media_franchises"
+    ],
+    "linked_pages_to_category": [
+      "Batman_images",
+      "Batman_storylines",
+      "Batman_objects",
+      "Batman_titles",
+      "Gotham_City",
+      "Batman_in_other_media",
+      "Batman_lists",
+      "Batman_characters",
+      "Batman_templates",
+      "Dark_Knight_(nickname)",
+      "Homosexuality_in_the_Batman_franchise",
+      "Gotham_City",
+      "Jerry_Robinson",
+      "Bob_Kane",
+      "Bill_Finger",
+      "Dark_Nights:_Metal",
+      "Batman",
+      "Mother_Panic"
+    ],
+    "terminology": [
+      {
+        "displayed": 0.3319097536094524
+      },
+      {
+        "may displayed": 0.3319097536094524
+      },
+      {
+        "message may": 0.3319097536094524
+      },
+      {
+        "message may displayed": 0.3319097536094524
+      },
+      {
+        "reason message": 0.3319097536094524
+      },
+      {
+        "reason message may": 0.3319097536094524
+      },
+      {
+        "reason message may displayed": 0.3319097536094524
+      },
+      {
+        "message": 0.30138576896222724
+      },
+      {
+        "reason": 0.274461706377271
+      },
+      {
+        "may": 0.25037731169559224
+      }
+    ]
+  },
+  "Comics_set_in_fictional_populated_places": {
+    "linked_categories": [
+      "Batman",
+      "Comics_by_setting",
+      "Works_set_in_fictional_populated_places"
+    ],
+    "linked_pages_to_category": [
+      "FF_med_Bert",
+      "Batman",
+      "Wonder_Woman",
+      "Overwatch_(digital_comic_series)"
+    ],
+    "terminology": [
+      {
+        "comic": 0.2933044638544454
+      },
+      {
+        "book even": 0.12490147237813153
+      },
+      {
+        "book even comic": 0.12490147237813153
+      },
+      {
+        "even comic": 0.12490147237813153
+      },
+      {
+        "ff": 0.12490147237813153
+      },
+      {
+        "med": 0.12490147237813153
+      },
+      {
+        "published year": 0.12490147237813153
+      },
+      {
+        "guest": 0.09847375545694266
+      },
+      {
+        "book": 0.09776815461814847
+      },
+      {
+        "published": 0.09776815461814847
+      },
+      {
+        "comic book": 0.07972299189671925
+      },
+      {
+        "even": 0.07972299189671925
+      },
+      {
+        "year": 0.06517876974543231
+      },
+      {
+        "aimed": 0.06245073618906576
+      },
+      {
+        "aimed young": 0.06245073618906576
+      },
+      {
+        "aimed young people": 0.06245073618906576
+      },
+      {
+        "aimed young people like": 0.06245073618906576
+      },
+      {
+        "aimed young people like interview": 0.06245073618906576
+      },
+      {
+        "album published": 0.06245073618906576
+      },
+      {
+        "album published year": 0.06245073618906576
+      },
+      {
+        "album published year title": 0.06245073618906576
+      },
+      {
+        "album published year title shortened": 0.06245073618906576
+      },
+      {
+        "anders": 0.06245073618906576
+      },
+      {
+        "anders look": 0.06245073618906576
+      },
+      {
+        "anders look similar": 0.06245073618906576
+      },
+      {
+        "anders look similar one": 0.06245073618906576
+      },
+      {
+        "anders look similar one book": 0.06245073618906576
+      },
+      {
+        "appearance except": 0.06245073618906576
+      },
+      {
+        "appearance except comic": 0.06245073618906576
+      },
+      {
+        "appearance except comic report": 0.06245073618906576
+      }
+    ]
+  },
+  "DC_Comics_characters": {
+    "linked_categories": [
+      "DC_Comics_superheroes"
+    ],
+    "linked_pages_to_category": [
+      "Stanley_and_His_Monster",
+      "DC_Comics_martial_artists",
+      "DC_Comics_aliens",
+      "Danny_the_Street",
+      "Catherine_Cobert",
+      "Mockingbird_(DC_Comics)",
+      "Sugar_and_Spike",
+      "Mademoiselle_Marie",
+      "V_for_Vendetta_characters",
+      "Galactic_Golem",
+      "Amalgam_Comics_characters",
+      "Pyra_(comics)",
+      "Watchmen_characters",
+      "Gideon_Stargrave",
+      "DC_Comics_cosmic_entities",
+      "Vertigo_characters",
+      "Harold_Allnut",
+      "Batman_Jones",
+      "Bibbo_Bibbowski",
+      "Snapper_Carr",
+      "Cassandra_Craft",
+      "Robert_Crichton_(comics)",
+      "Sue_Dibny",
+      "Doiby_Dickles",
+      "Max_Eckhardt",
+      "Lois_Lane",
+      "Lana_Lang",
+      "Julie_Madison",
+      "Damon_Matthews",
+      "Tana_Moon",
+      "Linda_Park_(comics)",
+      "Olivia_Reynolds",
+      "Mike_Schorr",
+      "Sarah_Simms",
+      "Meloni_Thawne",
+      "Vicki_Vale",
+      "Martha_Wayne",
+      "Thomas_Wayne",
+      "Legs_(comics)",
+      "DC_Comics_angels",
+      "DC_Comics_Atlanteans",
+      "Norman_McCay",
+      "Claw_(John_Chan)",
+      "DC_Comics_Amazons",
+      "DC_Comics_Western_characters",
+      "DC_Comics_metahumans",
+      "DC_Comics_robots",
+      "Winky,_Blinky,_and_Noddy",
+      "Ebony_White",
+      "Alura",
+      "Nix_Uotan",
+      "Casey_the_Cop",
+      "Valerie_Perez",
+      "Sandman_(Garrett_Sanford)",
+      "Shvaughn_Erin",
+      "Jillian_Pearlman",
+      "Batman_characters",
+      "Johnny_Reb",
+      "Spirit_(comics)",
+      "Delores_Winters",
+      "Fireman_Farrell",
+      "Aunt_Harriet_Cooper",
+      "Chase_Meridian",
+      "Titans_of_Myth_(comics)",
+      "Arella",
+      "Lists_of_DC_Comics_characters",
+      "Zirral",
+      "Rex_the_Wonder_Dog",
+      "Tamara_Fox",
+      "Paul_Westfield",
+      "Aurakles",
+      "Captain_Compass",
+      "Ironwolf_(comics)",
+      "Hayfoot_Henry",
+      "Chief_Miles_O'Hara_(comics)",
+      "Hamilton_Hill_(comics)",
+      "Brother_Power_the_Geek",
+      "Amadeus_Arkham",
+      "DC_Comics_character_stubs",
+      "Green_Arrow_characters",
+      "Looney_Tunes_characters",
+      "Superman_characters",
+      "Dr._Rivon",
+      "DC_Comics_fantasy_characters",
+      "Black_Canary_characters",
+      "Wonder_Woman_characters",
+      "Kirigi_(DC_Comics)",
+      "DC_Comics_plant_characters",
+      "DC_Comics_characters_by_superhuman_feature_or_ability",
+      "DC_Comics_characters_in_other_media",
+      "DC_Comics_demons",
+      "DC_Comics_vampires",
+      "R._J._Brande",
+      "Dian_Belmont",
+      "Silver_St._Cloud",
+      "Ellen_Dolan_(comics)",
+      "DC_Comics_television_characters",
+      "Paul_Gambi",
+      "Alysia_Yeoh",
+      "Doctor_Megala",
+      "Sapphire_Stagg",
+      "Helena_Sandsmark",
+      "Paco_(comics)",
+      "DC_Comics_superheroes",
+      "Pandora_(DC_Comics)",
+      "Tartarus_(DC_Comics)",
+      "DC_Comics_supervillains",
+      "George_Taylor_(DC_Comics)",
+      "Johnny_DC",
+      "Jonas_Glim",
+      "Officer_Merkel",
+      "Chief_Parker",
+      "Professor_Potter",
+      "Red_Ryan_(comics)",
+      "Sterling_Silversmith",
+      "Captain_Strong",
+      "Sturmer_(comics)",
+      "Wildstorm_Publications_characters",
+      "Charlton_Comics_characters",
+      "Fawcett_Comics_characters",
+      "Quality_Comics_characters",
+      "Milestone_Comics_characters",
+      "All-American_Publications_characters",
+      "Iris_West",
+      "Ace_Morgan",
+      "Pete_Ross",
+      "Inspector_Henderson",
+      "Blue_Devil",
+      "Woozy_Winks",
+      "Jonny_Frost",
+      "Zola_(DC_Comics)",
+      "Doctor_Alchemy",
+      "Cassie_Cage",
+      "Vincent_Yatz",
+      "Vera_Sweet",
+      "Bill_Brane",
+      "Mario_Falcone_(DC_Comics)",
+      "Proteus_(DC_Comics)",
+      "Supreme_One_(DC_Comics)",
+      "Yogi_Bizerk",
+      "Doctor_LittleJohn",
+      "Wingy_Ames",
+      "Angel_Devlin",
+      "List_of_fictional_characters_with_plant_abilities",
+      "Clock_(comics)",
+      "Lady_Luck_(comics)",
+      "Sea_Devils_(comics)",
+      "Professor_Carter_Nichols",
+      "Sam_Lane_(comics)",
+      "Jonathan_Samuel_Kent",
+      "Green_Lantern_characters",
+      "Firestorm_(comics)",
+      "Pozhar_(DC_Comics)",
+      "Lena_Luthor",
+      "Patty_Spivot",
+      "Jessica_Cruz",
+      "Grid_(comics)",
+      "Injustice_characters"
+    ],
+    "terminology": [
+      {
+        "monster": 0.3804207377557278
+      },
+      {
+        "dover": 0.13314725821450474
+      },
+      {
+        "issue": 0.08487903606477866
+      },
+      {
+        "beast": 0.0808480955806993
+      },
+      {
+        "demon": 0.0808480955806993
+      },
+      {
+        "series": 0.07546354543258468
+      },
+      {
+        "appeared": 0.06490382593664548
+      },
+      {
+        "boy": 0.06467847646455945
+      },
+      {
+        "companion": 0.06467847646455945
+      },
+      {
+        "hell": 0.06467847646455945
+      },
+      {
+        "soul": 0.06467847646455945
+      },
+      {
+        "comic": 0.055631850802838986
+      },
+      {
+        "green arrow": 0.04850885734841958
+      },
+      {
+        "next": 0.04850885734841958
+      },
+      {
+        "character": 0.04635987566903249
+      },
+      {
+        "name": 0.04518035295659966
+      },
+      {
+        "world": 0.04518035295659966
+      },
+      {
+        "arrow": 0.04243951803238933
+      },
+      {
+        "feature": 0.04243951803238933
+      },
+      {
+        "later": 0.04084411805814737
+      },
+      {
+        "animal comic": 0.03804207377557278
+      },
+      {
+        "animal comic fox": 0.03804207377557278
+      },
+      {
+        "animal comic fox crow": 0.03804207377557278
+      },
+      {
+        "backup": 0.03804207377557278
+      },
+      {
+        "backup feature": 0.03804207377557278
+      },
+      {
+        "character next": 0.03804207377557278
+      },
+      {
+        "comic fox": 0.03804207377557278
+      },
+      {
+        "comic fox crow": 0.03804207377557278
+      },
+      {
+        "crow": 0.03804207377557278
+      },
+      {
+        "dover summoned": 0.03804207377557278
+      }
+    ]
+  },
+  "DC_Comics_superheroes": {
+    "linked_categories": [
+      "Batman",
+      "DC_Comics_characters",
+      "Superheroes_by_publisher"
+    ],
+    "linked_pages_to_category": [
+      "Scarlet_Skier",
+      "Spider_(DC_Comics)",
+      "OMAC_(Buddy_Blank)",
+      "Bulletman_and_Bulletgirl",
+      "Ibis_the_Invincible",
+      "Apache_Chief",
+      "Lady_Quark",
+      "Heckler_(comics)",
+      "Monstergirl",
+      "Sasha_Bordeaux",
+      "Samurai_(Super_Friends)",
+      "Anarky",
+      "Mysto",
+      "Ram_(comics)",
+      "Josiah_Power",
+      "Agent_Liberty",
+      "Natasha_Irons",
+      "Element_Girl",
+      "Ragman_(comics)",
+      "Lady_Liberty_(comics)",
+      "Comet_(Impact_Comics)",
+      "Fly_(Impact_Comics)",
+      "Ultra-Man",
+      "Goldstar_(comics)",
+      "Claw_the_Unconquered",
+      "Detective_Chimp",
+      "Harbinger_(DC_Comics)",
+      "Monolith_(comics)",
+      "Phantom_Stranger",
+      "Air_Wave",
+      "Sparkler_(comics)",
+      "Mayflower_(comics)",
+      "Anima_(comics)",
+      "Silver_Sorceress",
+      "Acrata",
+      "Major_Bummer",
+      "Coagula",
+      "Spider_Girl",
+      "Hawkwoman",
+      "Hawkman_(Katar_Hol)",
+      "Sargon_the_Sorcerer",
+      "Night_Eagle",
+      "Vartox",
+      "Naif_al-Sheikh",
+      "Freedom_Beast",
+      "Dorothy_Spinner",
+      "Duela_Dent",
+      "Off-Ramp",
+      "Arisia_Rrab",
+      "Argus_(comics)",
+      "Chris_KL-99",
+      "Ultra_the_Multi-Alien",
+      "Maya_(comics)",
+      "Bette_Kane",
+      "Parliament_of_Trees",
+      "Tim_Trench",
+      "Thorn_(comics)",
+      "Wild_Huntsman_(comics)",
+      "Tuatara_(comics)",
+      "Crimson_Fox",
+      "Thunderlord",
+      "Seraph_(comics)",
+      "Phantasm_(comics)",
+      "Prestor_Jon",
+      "Lagoon_Boy",
+      "Molecule_(comics)",
+      "Max_Mercury",
+      "Alley-Kat-Abra",
+      "Alpha_Centurion",
+      "Animal_Man",
+      "Atomic_Knight",
+      "B'wana_Beast",
+      "Zauriel",
+      "Zachary_Zatara",
+      "Zatara",
+      "Yankee_Poodle",
+      "Sun_Boy",
+      "Black_Condor",
+      "Ultra_Boy",
+      "Dawnstar",
+      "Element_Lad",
+      "Chemical_King",
+      "Brainiac_5",
+      "Bouncing_Boy",
+      "Nura_Nal",
+      "Gates_(comics)",
+      "Quislet",
+      "Tellus_(comics)",
+      "Polar_Boy",
+      "Princess_Projectra",
+      "Shikari_(comics)",
+      "Kinetix",
+      "Sensor_(comics)",
+      "Phantom_Girl",
+      "Night_Girl",
+      "Midnight_(DC_Comics)",
+      "Comet_Queen",
+      "Loose_Cannon_(comics)",
+      "Nuklon",
+      "Skyman",
+      "Offspring_(comics)",
+      "Miss_Martian",
+      "Thunder_and_Lightning_(comics)",
+      "Mento_(comics)",
+      "Elasti-Girl",
+      "Celsius_(comics)",
+      "Elongated_Man",
+      "Squire_(comics)",
+      "Bushmaster_(DC_Comics)",
+      "Fire_Lad",
+      "Gloss_(comics)",
+      "Calamity_King",
+      "Nightmaster",
+      "Hourman",
+      "Prysm",
+      "Liberty_Belle_(comics)",
+      "Iron_Munro",
+      "Human_Bomb",
+      "Omni_(DC_Comics)",
+      "Bork_(comics)",
+      "Bushido_(comics)",
+      "Killowat",
+      "Cyclone_(DC_Comics)",
+      "Crazy_Jane",
+      "Doll_Man",
+      "Phantom_Lady",
+      "Firebrand_(DC_Comics)",
+      "Reflecto",
+      "Major_Disaster",
+      "Dolphin_(comics)",
+      "Witchfire_(DC_Comics)",
+      "Wildcat_(Yolanda_Montez)",
+      "Wonder_Twins",
+      "Red_Star_(comics)",
+      "Ultraa",
+      "Misfit_(DC_Comics)",
+      "Sunburst_(comics)",
+      "Rising_Sun_(comics)",
+      "Fever_(DC_Comics)",
+      "Matter-Eater_Lad",
+      "Bumblebee_(comics)",
+      "Pantha",
+      "Aruna_(comics)",
+      "Rhea_Jones",
+      "Guy_Gardner_(comics)",
+      "Minion_(comics)",
+      "Batman_(Earth-Two)",
+      "Golden_Pharaoh",
+      "Geist_(DC_Comics)",
+      "Gear_(comics)",
+      "Kreon",
+      "Knight_(DC_Comics)",
+      "Jack_O'Lantern_(DC_Comics)",
+      "Merry_Pemberton",
+      "Rubberduck",
+      "Little_Cheese",
+      "Protector_(DC_Comics)",
+      "Strata_(comics)",
+      "Stel",
+      "Stalker_(comics)",
+      "Tasmanian_Devil_(comics)",
+      "TNT_(comics)",
+      "Wing_(DC_Comics)",
+      "Vril_Dox",
+      "Jet_(comics)",
+      "Queen_Desira",
+      "Nubia_(comics)",
+      "Shim'Tar",
+      "Northwind_(comics)",
+      "Wonder_Girl_(Cassie_Sandsmark)",
+      "Fighting_American",
+      "Maximum_(comics)",
+      "Obsidian_(comics)",
+      "Icemaiden",
+      "Chief_(comics)",
+      "Kid_Devil",
+      "Michael_Costner",
+      "Fleur-de-Lis_(DC_Comics)",
+      "Mindgrabber_Kid",
+      "Wonder_Boy_(comics)",
+      "Betty_Clawman",
+      "Maxima_(comics)",
+      "Garth_Ranzz",
+      "Impala_(DC_Comics)",
+      "Johnny_Quick_(Johnny_Chambers)",
+      "Magnetic_Kid",
+      "Warlock's_Daughter",
+      "Manitou_Raven",
+      "Terrific_Whatzit",
+      "Empress_(comics)",
+      "El_Dorado_(Super_Friends)",
+      "Strange_Visitor",
+      "Joshua_Clay",
+      "Atmos_(comics)",
+      "Warhawk_(Rex_Stewart)",
+      "Vera_Black",
+      "Negative_Man",
+      "Maxi-Man",
+      "Ray_(Ray_Terrill)",
+      "Striker_Z",
+      "Arrowette",
+      "Barbara_Gordon",
+      "Bronze_Tiger",
+      "Creote",
+      "Dingbats_of_Danger_Street",
+      "Harry_Stein_(comics)",
+      "Holly_Robinson_(comics)",
+      "Invisible_Hood",
+      "Judomaster",
+      "King_Faraday",
+      "Newsboy_Legion",
+      "Prez_(comics)",
+      "Red_Tornado_(Ma_Hunkel)",
+      "Red_Torpedo",
+      "Renee_Montoya",
+      "Roy_Raymond_(comics)",
+      "Savant_(DC_Comics)",
+      "Silent_Knight",
+      "Slam_Bradley",
+      "Speedy_(Mia_Dearden)",
+      "Spy_Smasher",
+      "Stuff_the_Chinatown_Kid",
+      "Unknown_Soldier_(DC_Comics)",
+      "Viking_Prince",
+      "Rose_Psychic",
+      "Centrix",
+      "Immortal_Man",
+      "Traci_Thirteen",
+      "Manhunter_(Kate_Spencer)",
+      "Duplicate_Boy",
+      "Saturn_Girl",
+      "Jezebelle",
+      "Adam_Strange",
+      "Star-Spangled_Kid",
+      "Captain_Triumph",
+      "Machiste",
+      "Sylvester_Pemberton",
+      "Muhammad_X",
+      "Crimson_Avenger",
+      "Tex_Thompson",
+      "Hop_Harrigan",
+      "Bloodwynd",
+      "Sandman_(Wesley_Dodds)",
+      "Naiad_(comics)",
+      "Gangbuster",
+      "Doll_Girl",
+      "Uncle_Sam_(comics)",
+      "Plastic_Man",
+      "Mister_Miracle_(Shilo_Norman)",
+      "Risk_(comics)",
+      "Manitou_Dawn",
+      "Patchwork_Man",
+      "Mary_Marvel",
+      "Johnny_Thunder",
+      "Ted_Kord",
+      "Gim_Allon",
+      "Valentina_Vostok",
+      "Damage_(DC_Comics)",
+      "Shade,_the_Changing_Man",
+      "El_Diablo_(comics)",
+      "Magno_(Quality_Comics)",
+      "Neon_the_Unknown",
+      "Commander_Steel",
+      "Kid_Eternity",
+      "Looker_(comics)",
+      "Deep_Blue_(comics)",
+      "Crimson_Avenger_(Lee_Travis)",
+      "Auron_(comics)",
+      "Blue_Tracer",
+      "Faith_(comics)",
+      "Hoppy_the_Marvel_Bunny",
+      "Mouthpiece_(comics)",
+      "Supergirl_(Linda_Danvers)",
+      "Supergirl_(Matrix)",
+      "'Mazing_Man",
+      "Kilowog",
+      "Raker_Qarrigat",
+      "Tomar-Tu",
+      "Isamot_Kol",
+      "Black_Pirate",
+      "Wildfire_(Carol_Vance_Martin)",
+      "Mister_Terrific_(Terry_Sloane)",
+      "Green_Team_(comics)",
+      "Mal_Duncan",
+      "Atom_(Al_Pratt)",
+      "Jack_T._Chance",
+      "Graf_Toren",
+      "Boodikka",
+      "Flex_Mentallo",
+      "Jonny_Double",
+      "Courtney_Whitmore",
+      "Hourman_(Rick_Tyler)",
+      "Turytt",
+      "Monitor_(comics)",
+      "Owlwoman",
+      "Superboy_(Kal-El)",
+      "Battalion_(DC_Comics)",
+      "Peter_Porkchops",
+      "Gnarrk",
+      "Sebastian_Faust",
+      "Ant_(DC_Comics)",
+      "Johnny_Quick",
+      "General_Glory",
+      "Laurel_Gand",
+      "Salaak",
+      "Wildcat_(comics)",
+      "Luornu_Durgo",
+      "Ferro_Lad",
+      "Inferno_(DC_Comics)",
+      "Arak_(comics)",
+      "Arm-Fall-Off-Boy",
+      "Superman_(Earth-Two)",
+      "Ballistic_(DC_Comics)",
+      "Invisible_Kid_(Jacques_Foccart)",
+      "Computo_(Danielle_Foccart)",
+      "Rond_Vidar",
+      "Miss_Fear_(comics)",
+      "Ch'p",
+      "Ganthet",
+      "Power_Girl",
+      "Superman_(Earth-One)",
+      "Technocrat_(comics)",
+      "Gypsy_(comics)",
+      "Ace_the_Bat-Hound",
+      "Robotman_(Cliff_Steele)",
+      "V_(comics)",
+      "Madame_Fatal",
+      "Hippolyta_(DC_Comics)",
+      "Rampage_(DC_Comics)",
+      "Draaga",
+      "Valda_the_Iron_Maiden",
+      "Beowulf_(DC_Comics)",
+      "Sgt._Rock",
+      "New_Gods_of_New_Genesis",
+      "Beefeater_(comics)",
+      "Bat-Mite",
+      "Kid_Flash_(Iris_West)",
+      "Toyman",
+      "Atlas_(DC_Comics)",
+      "Diana_Prince",
+      "Jakeem_Thunder",
+      "Bad_Samaritan",
+      "Space_Ghost",
+      "Golden_Eagle_(comics)",
+      "Pariah_(comics)",
+      "Myriad_(DC_Comics)",
+      "Ravager_(comics)",
+      "Batman",
+      "Green_Lantern",
+      "Hank_Hall",
+      "Crispus_Allen",
+      "Deadman",
+      "Jim_Corrigan",
+      "Lori_Morning",
+      "Reep_Daggle",
+      "Hades_(DC_Comics)",
+      "Iman_(comics)",
+      "G'nort",
+      "Lightning_(DC_Comics)",
+      "Tefé_Holland",
+      "Nightstar_(comics)",
+      "Black_Orchid_(comics)",
+      "Doctor_Thirteen",
+      "Ayla_Ranzz",
+      "Simon_Dark",
+      "Rick_Flag",
+      "Power_Boy",
+      "Prince_Ra-Man",
+      "Harlequin_(comics)",
+      "Golden_Arrow_(comics)",
+      "Yellow_Peri",
+      "Doctor_Mist",
+      "Doctor_Occult",
+      "Vigilante_(Justin_Powell)",
+      "Vigilante_(Pat_Trayce)",
+      "Vigilante_(Dave_Winston)",
+      "Vigilante_(Alan_Welles)",
+      "Vigilante_(Adrian_Chase)",
+      "Codename:_Assassin",
+      "Mister_Terrific_(comics)",
+      "Nite_Owl_(Dan_Dreiberg)",
+      "Nite_Owl_(Hollis_Mason)",
+      "Mothman_(comics)",
+      "Wonder_Woman_(Earth-Two)",
+      "August_General_in_Iron",
+      "Donna_Troy",
+      "Aquaman_(Arthur_Curry)",
+      "Shining_Knight_(Gardner_Grayle)",
+      "I,_Spyder",
+      "Gimmix_(comics)",
+      "Dyno-Mite_Dan",
+      "Shining_Knight_(Sir_Ystin)",
+      "Shakira_(comics)",
+      "Silver_Swan_(Vanessa_Kapatelis)",
+      "Beautiful_Dreamer_(DC_Comics)",
+      "Most_Excellent_Superbat",
+      "Big_Atomic_Lantern_Boy",
+      "Shy_Crazy_Lolita_Canary",
+      "Shiny_Happy_Aquazon",
+      "Well-Spoken_Sonic_Lightning_Flash",
+      "Willoughby_Kipling",
+      "Bizarra",
+      "Neon_(comics)",
+      "Isaiah_Crockett_(comics)",
+      "Dream_Boy_(comics)",
+      "Swamp_Thing",
+      "Guardian_(DC_Comics)",
+      "Rose_Wilson",
+      "Telekinesis_(comics)",
+      "Titan_Girl",
+      "Sonny_Sumo",
+      "Thara_Ak-Var",
+      "Red_Robin_(Ulysses_Armstrong)",
+      "Red_Robin_(Jason_Todd)",
+      "Red_Robin_(Kingdom_Come)",
+      "Tarantula_(DC_Comics)",
+      "Michael_Washington_Lane",
+      "Ray_(comics)",
+      "Magog_(comics)",
+      "Shield_(Archie_Comics)",
+      "Bombshell_(DC_Comics)",
+      "Creeper_(comics)",
+      "Jericho_(comics)",
+      "Red_Robin_(Tim_Drake)",
+      "Forager_(comics)",
+      "Carol_Ferris",
+      "Madame_Zodiac",
+      "Damian_Wayne",
+      "Supernova_(comics)",
+      "Garryn_Bek",
+      "Steel_(comics)",
+      "Fastback_(comics)",
+      "Question_(comics)",
+      "Eradicator_(comics)",
+      "Flash_(comics)",
+      "Hitman_(DC_Comics)",
+      "Red_Bee_(comics)",
+      "Sandy_Hawkins",
+      "Ke'Haan",
+      "Fury_(DC_Comics)",
+      "Soranik_Natu",
+      "Krypto",
+      "Philippus_(comics)",
+      "Kid_Psycho",
+      "Kono_(comics)",
+      "Kent_Shakespeare",
+      "Devlin_O'Ryan",
+      "Minute-Man",
+      "Miss_X_(comics)",
+      "Artemis_of_Bana-Mighdall",
+      "Dan_the_Dyna-Mite",
+      "Olympian_(comics)",
+      "Pied_Piper_(comics)",
+      "Pinky_the_Whiz_Kid",
+      "Magno_(comics)",
+      "Major_Victory_(DC_Comics)",
+      "Marco_(comics)",
+      "Moon_Maiden_(comics)",
+      "Secret_(Greta_Hayes)",
+      "Silent_Majority_(comics)",
+      "Kole",
+      "Sodam_Yat",
+      "Ion_(DC_Comics)",
+      "King_Standish",
+      "Myg_(comics)",
+      "Wingmen_of_Thanagar",
+      "Infinity-Man",
+      "Supergirl_(Cir-El)",
+      "Doctor_Fate",
+      "Gunfire_(comics)",
+      "Huntress_(comics)",
+      "Batwoman",
+      "Huntress_(Helena_Wayne)",
+      "Dybbuk_(comics)",
+      "Little_Barda",
+      "Sandman_(DC_Comics)",
+      "Congorilla",
+      "Nightrider_(DC_Comics)",
+      "Chronos_(comics)",
+      "Echo_(DC_Comics)",
+      "Ekron_(comics)",
+      "Redwing_(comics)",
+      "Space_Ranger",
+      "Francine_Langstrom",
+      "Rama_(comics)",
+      "Tiger_Shark_(DC_Comics)",
+      "Wildfire_(comics)",
+      "Manticore_(DC_Comics)",
+      "Janu_the_Jungle_Boy",
+      "Lar_Gand",
+      "Nightshade_(DC_Comics)",
+      "Más_y_Menos",
+      "Bozo_the_Iron_Man",
+      "Mirage_(DC_Comics)",
+      "Morphea_(comics)",
+      "Terra_(comics)",
+      "Ice_(comics)",
+      "Carrie_Kelley",
+      "Osiris_(DC_Comics)",
+      "Aquagirl_(Lorena_Marquez)",
+      "Hawk_and_Dove",
+      "Muse_(comics)",
+      "Vulcan_(DC_Comics)",
+      "Argent_(comics)",
+      "Black_Alice_(comics)",
+      "Web_(comics)",
+      "White_Witch_(comics)",
+      "Superboy-Prime",
+      "Chunk_(comics)",
+      "Flygirl",
+      "Comet_(Archie_Comics)",
+      "Fox_(comics)",
+      "Jaguar_(Archie_Comics)",
+      "Batman_(Terry_McGinnis)",
+      "Fire_(comics)",
+      "Nemesis_(DC_Comics)",
+      "Breach_(comics)",
+      "Streaky_the_Supercat",
+      "Whizzy",
+      "Amazing-Man_(DC_Comics)",
+      "Enchantress_(DC_Comics)",
+      "Young_Frankenstein_(comics)",
+      "Skyrocket_(comics)",
+      "Sparx_(comics)",
+      "Waverider_(comics)",
+      "Mr._Scarlet",
+      "Tomar-Re",
+      "Blue_Devil",
+      "Hector_Hall",
+      "Atom_(Ryan_Choi)",
+      "Thom_Kallor",
+      "Madame_Xanadu",
+      "Rocket_(comics)",
+      "Baron_Bedlam",
+      "Zatanna",
+      "Impulse_(DC_Comics)",
+      "Jade_(comics)",
+      "Katma_Tui",
+      "Flodo_Span",
+      "Medphyll",
+      "Starman_(Jack_Knight)",
+      "Kid_Quantum",
+      "Robin_Hood_(DC_Comics)",
+      "Aztek_(comics)",
+      "Dubbilex",
+      "Miss_America_(DC_Comics)",
+      "Kobalt",
+      "Belyllioth",
+      "Metamorpho",
+      "Manhunter_(comics)",
+      "Flamebird",
+      "Hourman_(android)",
+      "Black_Hood",
+      "Xombi",
+      "Whip_(comics)",
+      "Merlin_(DC_Comics)",
+      "King_Arthur_(DC_Comics)",
+      "Invisible_Kid",
+      "Rainbow_Girl",
+      "Brainiac_8",
+      "Vixen_(comics)",
+      "Bulleteer",
+      "Chantinelle",
+      "Nnamdi_(comics)",
+      "Pandora_Pann",
+      "Thunder_(CeCe_Beck)",
+      "Solstice_(comics)",
+      "Dragonmage",
+      "King_Chimera",
+      "Rex_Leech",
+      "Roxy_Leech",
+      "Druu",
+      "Chlorophyll_Kid",
+      "Stone_Boy",
+      "Catspaw_(comics)",
+      "Nightrunner_(comics)",
+      "Dev-Em",
+      "Warlord_(comics)",
+      "Thunder_(comics)",
+      "Arion_(comics)",
+      "Timber_Wolf_(comics)",
+      "Spectre_(character)",
+      "Alan_Scott",
+      "Saint_Walker",
+      "Red_Beetle",
+      "Trixie_Collins",
+      "Michelle_Carter_(comics)",
+      "Wonder_Dog_(Super_Friends)",
+      "Skeets_(DC_Comics)",
+      "List_of_DC_Comics_characters_named_Batman",
+      "Shade_(comics)",
+      "El_Muerto_(DC_Comics)",
+      "Sapphire_(comics)",
+      "Peacemaker_(comics)",
+      "Hal_Jordan",
+      "DC_Comics_superhero_teams",
+      "Batman_(Dark_Knight_Universe)",
+      "Big_Barda",
+      "Son_of_Vulcan",
+      "Steel_(John_Henry_Irons)",
+      "Captain_Marvel_(DC_Comics)",
+      "Wonder_Man_(DC_Comics)",
+      "Blue_Jay_(comics)",
+      "Geo-Force",
+      "Halo_(comics)",
+      "Kraken_(character)",
+      "Red_Torpedo_(Jim_Lockhart)",
+      "Neptune_Perkins",
+      "Super-Chief",
+      "Green_Arrow",
+      "Superman_(Kingdom_Come)",
+      "Batwing_(DC_Comics)",
+      "Scarab_(Vertigo)",
+      "Frankenstein_(DC_Comics)",
+      "Firehawk_(comics)",
+      "Pozhar",
+      "Sinestro",
+      "Gehenna_(comics)",
+      "Brainwave_(comics)",
+      "Amethyst,_Princess_of_Gemworld",
+      "Captain_Atom",
+      "Robin_(character)",
+      "Xero_(comics)",
+      "Clark_Kent_(Smallville)",
+      "Mercy_Graves",
+      "Evey_Hammond",
+      "Rocket_Red",
+      "Jonah_Hex",
+      "Plastique_(comics)",
+      "Tornado_Twins",
+      "Coldcast",
+      "Firestorm_(comics)",
+      "Hawkman",
+      "Will_Magnus",
+      "David_Graves_(comics)",
+      "Lobo_(DC_Comics)",
+      "Aquaman",
+      "Abin_Sur",
+      "Paula_Brooks",
+      "Nite_Owl",
+      "John_Stewart_(comics)",
+      "Simon_Baz",
+      "Chas_Chandler_(comics)",
+      "Mogo",
+      "Rima",
+      "I…Vampire",
+      "Green_Man_(comics)",
+      "Fate_(comics)",
+      "Black_Canary",
+      "Cyborg_(comics)",
+      "Starman_(Ted_Knight)",
+      "Baby_Wildebeest",
+      "Mister_Terrific_(Michael_Holt)",
+      "Human_Cannonball_(DC_Comics)",
+      "Rorschach_(comics)",
+      "Karate_Kid_(comics)",
+      "Captain_Boomerang",
+      "Lara_(comics)",
+      "Swamp_Thing",
+      "Superboy_(Kon-El)",
+      "Catwoman",
+      "Tempest_(DC_Comics)",
+      "Kanga_(comics)",
+      "Captain_Carrot",
+      "Jor-El",
+      "Dark_Ranger",
+      "Darwin_Jones",
+      "Rip_Hunter",
+      "Manchester_Black",
+      "Richard_Dragon",
+      "Bluebird_(DC_Comics)",
+      "Genius_Jones",
+      "Anna_Fortune",
+      "Shining_Knight",
+      "Aquagirl",
+      "List_of_Static_supporting_characters",
+      "List_of_Static_enemies",
+      "Bunker_(comics)",
+      "Tim_Drake",
+      "Wildstar_(DC_Comics)",
+      "Weird_(comics)",
+      "Hardware_(comics)",
+      "Dharma_(comics)",
+      "Icon_(comics)",
+      "Iron_Butterfly_(comics)",
+      "Blok_(comics)",
+      "Superman_(Kal_Kent)",
+      "Isis_(DC_Comics)",
+      "Zed_(comics)",
+      "Ambush_Bug",
+      "Mystery_Lad",
+      "Zor-El",
+      "Klarion_the_Witch_Boy",
+      "Extraño",
+      "Bat-Cow",
+      "Tomorrow_Woman",
+      "Tyroc",
+      "Aquaman",
+      "XS_(comics)",
+      "Beast_Boy",
+      "Orion_(comics)",
+      "Mister_Miracle",
+      "Lightray",
+      "Kamandi",
+      "Martian_Manhunter",
+      "Shadow_Lass",
+      "Jesse_Chambers",
+      "Hangman_(Archie_Comics)",
+      "Strix_(comics)",
+      "Drusilla_(DC_Comics)",
+      "Peter_Cannon,_Thunderbolt",
+      "Solovar",
+      "Captain_Comet",
+      "Star_Hawkins",
+      "Jonah_Hex",
+      "Green_Hornet_(comics)",
+      "Roy_Harper_(comics)",
+      "Haunted_Tank",
+      "Etrigan_the_Demon",
+      "Oliver_Queen_(Arrow)",
+      "Supergirl",
+      "Aqualad",
+      "Red_Tornado",
+      "Speedy_(comics)",
+      "Hawkgirl",
+      "Blue_Beetle",
+      "Tallulah_Black",
+      "Superwoman",
+      "Vibe_(comics)",
+      "Salu_Digby",
+      "Hawkman_(Carter_Hall)",
+      "Doctor_Mid-Nite",
+      "Man-Bat",
+      "Antaeus_(comics)",
+      "Aquawoman",
+      "Black_Thorn_(comics)",
+      "Mister_America_(Jeffrey_Graves)",
+      "Orana_(comics)",
+      "Orpheus_(comics)",
+      "Ozymandias_(comics)",
+      "Scorch_(comics)",
+      "Super-Turtle",
+      "Trickster_(comics)",
+      "Monstress_(character)",
+      "Rick_Stone_(comics)",
+      "Wandjina_(comics)",
+      "Supergirl_(Kara_Zor-El)",
+      "Tanya_Spears_(comics)",
+      "Jester_(Quality_Comics)",
+      "711_(Quality_Comics)",
+      "Gay_Ghost",
+      "Hercules_(DC_Comics)",
+      "Green_Arrow_(Connor_Hawke)",
+      "Merlin_the_Magician_(comics)",
+      "Azrael_(comics)",
+      "Antiope_(comics)",
+      "Alexander_Luthor_Jr.",
+      "Cassandra_Cain",
+      "List_of_DC_Comics_characters_named_Superman",
+      "Vera_Sweet",
+      "Vincent_Yatz",
+      "Bill_Brane",
+      "Terror_(DC_Comics)",
+      "Supreme_One_(DC_Comics)",
+      "Yogi_Bizerk",
+      "Doctor_LittleJohn",
+      "Starfire_(Star_Hunters)",
+      "Starman_(comics)",
+      "The_Shadow",
+      "Raven_(DC_Comics)",
+      "Golden_Knight",
+      "Red_Robin_(comics)",
+      "Harley_Quinn",
+      "Jaime_Reyes",
+      "Laurel_Kent",
+      "Presence_(DC_Comics)",
+      "Jonathan_Samuel_Kent",
+      "Batgirl",
+      "Doctor_Manhattan",
+      "Cosmic_Boy",
+      "Artemis_Crock",
+      "Atom_(Ray_Palmer)",
+      "Silver_Banshee",
+      "John_Constantine",
+      "Huntress_(Helena_Bertinelli)",
+      "Superman",
+      "Sara_Lance",
+      "Katana_(comics)",
+      "Ritchie_Simpson",
+      "Papa_Midnite",
+      "Jason_Todd",
+      "Garth_(comics)",
+      "Kyle_Rayner",
+      "Pozhar_(DC_Comics)",
+      "Aqualad_(Kaldur'ahm)",
+      "Godiva_(comics)",
+      "Captain_Marvel_(DC_Comics)",
+      "Lex_Luthor",
+      "Thomas_Wayne",
+      "Stephanie_Brown_(comics)",
+      "Human_Target",
+      "Bizarro",
+      "Starfire_(Teen_Titans)",
+      "Flash_(Jay_Garrick)",
+      "Black_Canary",
+      "Black_Lightning",
+      "Desmond_Farr",
+      "Clark_Kent",
+      "Barbara_Gordon_Batgirl_Vol_5_4.png",
+      "Barbara_Gordon_Batgirl_Vol_4_1.png",
+      "Thea_Queen",
+      "Green_Arrow",
+      "Martian_Manhunter_Alex_Ross.png",
+      "Captain_Marvel_Jr.",
+      "Manhattan_Guardian",
+      "Kid_Flash",
+      "Wonder_Woman",
+      "Resurrection_Man_(comics)",
+      "Doctor_Light_(Kimiyo_Hoshi)",
+      "Jessica_Cruz",
+      "Lilith_Clay",
+      "The_Zeta_Project",
+      "Pat_Dugan",
+      "Albert_Rothstein",
+      "Supergirl",
+      "Lady_Blackhawk",
+      "Booster_Gold",
+      "Clayface",
+      "Bruce_Wayne_(Gotham)",
+      "Green_Lantern",
+      "Superboy",
+      "Alfred_Pennyworth",
+      "Batman",
+      "Nightwing",
+      "Wild_Dog_(comics)",
+      "Catman_(comics)",
+      "Flash_(comics)",
+      "Dick_Grayson",
+      "Wonder_Woman",
+      "Black_Vulcan",
+      "Mera_(comics)",
+      "Wally_West",
+      "Grace_Choi",
+      "Insect_Queen_(DC_Comics)",
+      "Superman",
+      "DC_Comics_Bombshells_Vol_1_21_Textless.jpg",
+      "Hawkgirl_DC_Super_Hero_Girls_0001.png",
+      "Earth_2_Vol_1_4_Textless.jpg",
+      "Static_(DC_Comics)"
+    ],
+    "terminology": [
+      {
+        "skier": 0.4947973130723187
+      },
+      {
+        "scarlet skier": 0.19242117730590172
+      },
+      {
+        "scarlet": 0.16357558030464123
+      },
+      {
+        "nebula": 0.14020764026112106
+      },
+      {
+        "herald": 0.08246621884538645
+      },
+      {
+        "cosmic": 0.08177674487227043
+      },
+      {
+        "justice league": 0.08177674487227043
+      },
+      {
+        "league": 0.08177674487227043
+      },
+      {
+        "justice": 0.06529354658583589
+      },
+      {
+        "cosmic known": 0.054977479230257635
+      },
+      {
+        "herald cosmic": 0.054977479230257635
+      },
+      {
+        "herald cosmic known": 0.054977479230257635
+      },
+      {
+        "jump": 0.054977479230257635
+      },
+      {
+        "reform": 0.054977479230257635
+      },
+      {
+        "find": 0.046735880087040355
+      },
+      {
+        "instead": 0.046735880087040355
+      },
+      {
+        "imprisoned": 0.0363526931272388
+      },
+      {
+        "earth": 0.03339537949967459
+      },
+      {
+        "becomes": 0.032646773292917944
+      },
+      {
+        "known": 0.02951346271850526
+      },
+      {
+        "adventure new": 0.027488739615128818
+      },
+      {
+        "adventure new costume": 0.027488739615128818
+      },
+      {
+        "adventure new costume find": 0.027488739615128818
+      },
+      {
+        "adventure new costume find even": 0.027488739615128818
+      },
+      {
+        "also hand": 0.027488739615128818
+      },
+      {
+        "also hand nebula": 0.027488739615128818
+      },
+      {
+        "also hand nebula decides": 0.027488739615128818
+      },
+      {
+        "also hand nebula decides reform": 0.027488739615128818
+      },
+      {
+        "appeared justice": 0.027488739615128818
+      },
+      {
+        "appeared justice league": 0.027488739615128818
+      }
+    ]
+  },
+  "Entertainment": {
+    "linked_categories": [
+      "Media_franchises"
+    ],
+    "linked_pages_to_category": [
+      "Comedy",
+      "Amusement_parks",
+      "Singing_telegram",
+      "Trivia",
+      "Dance",
+      "Toys",
+      "Theatre",
+      "Infotainment",
+      "Nightlife",
+      "Circassian_beauties",
+      "Stereopticon",
+      "Gambling",
+      "Entertainment_technology",
+      "Sequels",
+      "Pleorama",
+      "Cosmorama",
+      "Entertainment_occupations",
+      "Television",
+      "Table_of_death",
+      "Gaming",
+      "Performing_arts",
+      "Drama",
+      "Children's_entertainment",
+      "Entertainment_venues",
+      "Adventure",
+      "Revivalist_artist",
+      "Casting_television",
+      "Cheerleading",
+      "Educational_entertainment",
+      "Spoiler_(media)",
+      "Media_franchises",
+      "Spectacle",
+      "Entertainment_organizations",
+      "Entertainment_lists",
+      "Screenwriting",
+      "Magic_(illusion)",
+      "Showroom",
+      "Coin_magic",
+      "Bioscope_show",
+      "Ribaldry",
+      "Assembly_rooms",
+      "Calligraphic_projection",
+      "Entertainment_law",
+      "Entertainment_by_country",
+      "Prequels",
+      "Home_entertainment_server",
+      "Party_motivator",
+      "Sex_industry",
+      "Tragedies_(dramas)",
+      "Patter",
+      "Street_theatre",
+      "Seat_filler",
+      "Gospel_magic",
+      "Shadowgraphy_(performing_art)",
+      "Information_by_telephone",
+      "Media_and_entertainment_controversies",
+      "Burlesque",
+      "Sports_entertainment",
+      "Ancillary_market",
+      "Script_market",
+      "Hat_puzzle",
+      "Hype_man",
+      "Entertainment_robotics",
+      "Peep_show",
+      "Balloons_(entertainment)",
+      "Variety_shows",
+      "Entertainment_scandals",
+      "Humour",
+      "Tickling",
+      "Convenience_technologies",
+      "Caption_contest",
+      "Entertainment_events",
+      "Works_about_entertainment",
+      "Entertainment_halls_of_fame",
+      "Music",
+      "Baguazhang",
+      "Film",
+      "Military-entertainment_complex",
+      "Music",
+      "Naked_butler",
+      "Comics",
+      "It_girl",
+      "Entertainment_law",
+      "Scientific_demonstration",
+      "Family_entertainment_center",
+      "Head_shot",
+      "Ball_pit",
+      "Entertainment_by_city",
+      "LGBT_entertainment",
+      "Season_ticket",
+      "Erdős–Bacon_number",
+      "Dance_marathon",
+      "Corporate_entertainment",
+      "Escapism",
+      "Entertainment_television_channels",
+      "Mathemagician",
+      "Animals_in_entertainment",
+      "Narratology",
+      "Motion-capture_acting",
+      "Entertainment",
+      "Action_(genre)",
+      "Puppetry",
+      "Home_theater_in_a_box",
+      "5.1_surround_sound",
+      "Dobox",
+      "Politainment",
+      "Entertainment_industry",
+      "Entertainment_by_continent",
+      "Gender_and_entertainment",
+      "Media_law",
+      "Pub_quiz",
+      "Film",
+      "Comic_book",
+      "Singing",
+      "Serer_entertainment",
+      "Drama",
+      "Entertainment_in_the_16th_century",
+      "Rave",
+      "Outline_of_entertainment",
+      "Entertainers",
+      "Adventure_park",
+      "Practical_joke"
+    ],
+    "terminology": [
+      {
+        "comedy": 0.493069720644602
+      },
+      {
+        "laughter": 0.1578498023179009
+      },
+      {
+        "comic": 0.15207832020806628
+      },
+      {
+        "comedian": 0.08418656123621382
+      },
+      {
+        "genre": 0.0834998694621826
+      },
+      {
+        "satire": 0.08051205187485862
+      },
+      {
+        "frame": 0.06313992092716036
+      },
+      {
+        "punch": 0.06313992092716036
+      },
+      {
+        "comic frame": 0.05261660077263364
+      },
+      {
+        "humor": 0.05261660077263364
+      },
+      {
+        "term": 0.05084293773806365
+      },
+      {
+        "defined": 0.04870825718627319
+      },
+      {
+        "century": 0.046167181650574325
+      },
+      {
+        "character": 0.04374276822593651
+      },
+      {
+        "ending": 0.04209328061810691
+      },
+      {
+        "happy ending": 0.04209328061810691
+      },
+      {
+        "laurel": 0.04209328061810691
+      },
+      {
+        "parody": 0.04209328061810691
+      },
+      {
+        "th": 0.041037494800510506
+      },
+      {
+        "th century": 0.041037494800510506
+      },
+      {
+        "form": 0.038906840103610986
+      },
+      {
+        "happy": 0.03578313416660383
+      },
+      {
+        "one": 0.03409204642360342
+      },
+      {
+        "society": 0.03389529182537577
+      },
+      {
+        "average": 0.03156996046358018
+      },
+      {
+        "genre comedy": 0.03156996046358018
+      },
+      {
+        "irony": 0.03156996046358018
+      },
+      {
+        "mimesis": 0.03156996046358018
+      },
+      {
+        "phallic": 0.03156996046358018
+      },
+      {
+        "provokes": 0.03156996046358018
+      }
+    ]
+  },
+  "Franchises": {
+    "linked_categories": [
+      "Media_franchises"
+    ],
+    "linked_pages_to_category": [
+      "Franchised_formats",
+      "Dollarama",
+      "Trailways_Transportation_System",
+      "Stuckey's",
+      "Budget_Rent_a_Car",
+      "Martinizing_Dry_Cleaning",
+      "Coldwell_Banker",
+      "Jean_Coutu_Group",
+      "Arthur_Murray_Dance_Studios",
+      "Spring_Air_Company",
+      "Rexall",
+      "Curves_International",
+      "Navis_Logistics_Network",
+      "Pacha_Group",
+      "Aaron's,_Inc.",
+      "Wild_Birds_Unlimited",
+      "Chem-Dry",
+      "Culligan",
+      "Needs_Convenience",
+      "Putt-Putt_Fun_Center",
+      "Supercuts",
+      "Knockouts",
+      "Servpro",
+      "Fred_Astaire_Dance_Studios",
+      "Intres_B.V.",
+      "PropertyGuys.com",
+      "Circle_K",
+      "Cottman_Transmission_and_Total_Auto_Care",
+      "Sir_Speedy",
+      "Monster_Mini_Golf",
+      "J._D._Byrider",
+      "Symbol_group",
+      "Fifth_Wheel_Truck_Stops",
+      "Oil_Can_Henry's",
+      "Flicko's_Video_Services",
+      "Gala_(supermarket)",
+      "Two_Men_and_a_Truck",
+      "Microlins",
+      "Office_1_Superstore",
+      "Roark_Capital_Group",
+      "Sunrider",
+      "Ashley_HomeStore",
+      "Mr._Handyman",
+      "Sunbeam_Bread",
+      "Gold's_Gym",
+      "Serta_(company)",
+      "Avis_Rent_a_Car",
+      "World_Gym",
+      "GMAC_Real_Estate",
+      "The_Briad_Group",
+      "Gymboree",
+      "Anytime_Fitness",
+      "Assist-2-Sell",
+      "U-Turn_Vending",
+      "Alliance_Française",
+      "Convenient_Food_Mart",
+      "Jazzercise",
+      "Restaurant_franchises",
+      "MAACO",
+      "Oxi_Fresh_Carpet_Cleaning",
+      "Edible_Arrangements",
+      "Hotel_chains",
+      "LSL_Property_Services",
+      "Wild_Bird_Centers_of_America,_Inc.",
+      "Fressnapf",
+      "Fast-teks",
+      "List_of_franchises",
+      "TravelCenters_of_America",
+      "Mr._Greek",
+      "Rib_Crib",
+      "Mace_(store)",
+      "HomeVestors_of_America",
+      "Liberty_Tax_Service",
+      "Fastsigns",
+      "Snappy_Snaps",
+      "European_Wax_Center",
+      "Regis_Corporation",
+      "County_Market",
+      "Stanley_Steemer",
+      "College_Hunks_Hauling_Junk",
+      "DirectBuy",
+      "First_Franchise_Ltd",
+      "Electrodry",
+      "BNI_(organization)",
+      "Malibu_Grand_Prix",
+      "Fastway_Couriers",
+      "Engel_&_Völkers",
+      "Avis_Budget_Group",
+      "M&M_Food_Market",
+      "RE/MAX",
+      "Caffè_del_Doge",
+      "Disaster_Kleenup_International",
+      "Dream_Dinners",
+      "Fresh_Healthy_Vending",
+      "Autonet_Mobile",
+      "Martha_Matilda_Harper",
+      "ServiceMaster",
+      "C1000",
+      "1-800-GOT-JUNK?",
+      "Bamboo_Club",
+      "Chatime",
+      "HoneyBaked_Ham",
+      "Piggly_Wiggly",
+      "Batteries_Plus_Bulbs",
+      "Pinot's_Palette",
+      "Weight_Watchers",
+      "U-Haul",
+      "Keller_Williams_Realty",
+      "Planet_Fitness",
+      "Metal_Supermarkets",
+      "AAMCO_Transmissions",
+      "Kampgrounds_of_America",
+      "Great_Clips",
+      "OrderUp",
+      "Promotional_Space",
+      "The_Little_Gym",
+      "Energie_Group",
+      "Signarama",
+      "Invisible_Fence_Inc",
+      "America's_Swimming_Pool_Company",
+      "Blockbuster_LLC",
+      "Media_franchises",
+      "Travelodge",
+      "Arthur_Rutenberg_Homes",
+      "School_of_Rock_(company)",
+      "Jamaica_Blue",
+      "Paint_Nite",
+      "Sour_Sally",
+      "Winmark",
+      "Paint_and_sip_industry",
+      "Zumba",
+      "Motel_6",
+      "Ben_Franklin_(company)",
+      "LJ_Hooker",
+      "Century_21_(real_estate)",
+      "PostNet_(company)",
+      "Raine_&_Horne",
+      "Satanhhh/sandbox/S&Y",
+      "Chain_store",
+      "Cruise_Planners",
+      "Merry_Maids",
+      "JeffFrye/sandbox/Superior_Auto,_Inc.",
+      "Massage_Envy",
+      "Toni_&_Guy"
+    ],
+    "terminology": [
+      {
+        "displayed": 0.3269891039238555
+      },
+      {
+        "may displayed": 0.3269891039238555
+      },
+      {
+        "message": 0.3269891039238555
+      },
+      {
+        "message may": 0.3269891039238555
+      },
+      {
+        "message may displayed": 0.3269891039238555
+      },
+      {
+        "reason": 0.3269891039238555
+      },
+      {
+        "reason message": 0.3269891039238555
+      },
+      {
+        "reason message may": 0.3269891039238555
+      },
+      {
+        "reason message may displayed": 0.3269891039238555
+      },
+      {
+        "may": 0.1941729467141753
+      }
+    ]
+  },
+  "Masks": {
+    "linked_categories": [
+      "Masks_in_fiction"
+    ],
+    "linked_pages_to_category": [
+      "Masking",
+      "Mask",
+      "Masquerade_ball",
+      "Functional_masks",
+      "Death_masks",
+      "Ritual_masks",
+      "Masks_by_region",
+      "Sports_masks",
+      "Military_masks",
+      "Masks_in_theatre",
+      "Masks_by_material",
+      "Masks_in_fiction",
+      "Punitive_masks",
+      "Masks_in_law",
+      "Political_masks",
+      "Masked_people_by_occupation"
+    ],
+    "terminology": [
+      {
+        "masking mean": 0.6890381654614113
+      },
+      {
+        "masking": 0.5124580014682045
+      },
+      {
+        "mean": 0.5124580014682045
+      }
+    ]
+  },
+  "Masks_in_fiction": {
+    "linked_categories": [
+      "Batman",
+      "Masks"
+    ],
+    "linked_pages_to_category": [
+      "Fatal_Frame:_Mask_of_the_Lunar_Eclipse",
+      "Spirit_Camera",
+      "Darker_than_Black",
+      "Kamen_Rider",
+      "Terror_in_Resonance",
+      "Hyrule_Warriors",
+      "Drakengard_2",
+      "The_Mask_(film)",
+      "Son_of_the_Mask",
+      "MagnaCarta_2",
+      "Bleach_(manga)",
+      "The_Legend_of_Zelda:_Majora's_Mask_3D",
+      "The_Mask_(1961_film)",
+      "The_Legend_of_Zelda:_Majora's_Mask",
+      "M.A.S.K._(TV_series)",
+      "Dead_Man's_Party_(Buffy_the_Vampire_Slayer)",
+      "V_for_Vendetta",
+      "Code_Geass",
+      "The_Secret_of_Cavelli",
+      "The_Fox_and_the_Mask",
+      "Mugam_(film)",
+      "The_Haunted_Mask_(TV_special)",
+      "Dead_in_3_Days",
+      "Bionicle",
+      "V_for_Vendetta",
+      "The_Mask",
+      "Bleach_(manga)",
+      "The_Haunted_Mask",
+      "Quick_(1932_film)",
+      "Batman",
+      "Spider-Man",
+      "Secret_identity",
+      "Black_Widow_(Marvel_Comics)",
+      "Bionicle",
+      "Spider-Woman",
+      "Bayonetta_2"
+    ],
+    "terminology": [
+      {
+        "game": 0.19520516927942405
+      },
+      {
+        "mask": 0.1557600541671065
+      },
+      {
+        "eclipse": 0.11778075303669167
+      },
+      {
+        "lunar": 0.11778075303669167
+      },
+      {
+        "lunar eclipse": 0.11778075303669167
+      },
+      {
+        "mask lunar": 0.11778075303669167
+      },
+      {
+        "mask lunar eclipse": 0.11778075303669167
+      },
+      {
+        "island": 0.10124403520861923
+      },
+      {
+        "translation": 0.08244652712568416
+      },
+      {
+        "moon": 0.07066845182201499
+      },
+      {
+        "camera": 0.07009202437519793
+      },
+      {
+        "spirit": 0.07009202437519793
+      },
+      {
+        "series": 0.0653188849867442
+      },
+      {
+        "development": 0.06315461359040189
+      },
+      {
+        "girl": 0.0623040216668426
+      },
+      {
+        "grasshopper": 0.060074640316953
+      },
+      {
+        "shot": 0.060074640316953
+      },
+      {
+        "grasshopper manufacture": 0.05889037651834583
+      },
+      {
+        "manufacture": 0.05889037651834583
+      },
+      {
+        "character": 0.05660970032184497
+      },
+      {
+        "ritual": 0.05451601895848728
+      },
+      {
+        "previous": 0.05058242629345936
+      },
+      {
+        "fan": 0.0500622002641275
+      },
+      {
+        "previous game": 0.0500622002641275
+      },
+      {
+        "control": 0.048958466585700654
+      },
+      {
+        "player": 0.048958466585700654
+      },
+      {
+        "disease": 0.04711230121467667
+      },
+      {
+        "hidden": 0.04711230121467667
+      },
+      {
+        "hidden moon": 0.04711230121467667
+      },
+      {
+        "hidden moon disease": 0.04711230121467667
+      }
+    ]
+  },
+  "Media_franchises": {
+    "linked_categories": [
+      "Batman",
+      "Entertainment",
+      "Franchises",
+      "Media_industry",
+      "Sequels",
+      "Series",
+      "Western_culture"
+    ],
+    "linked_pages_to_category": [
+      "Peanuts_(comic_strip)",
+      "Dungeons_&_Dragons",
+      "Sin_City",
+      "Dirk_Pitt",
+      "Monster_Rancher",
+      "Bionicle",
+      "Care_Bears",
+      "Mario",
+      "Robotech",
+      "Neopets",
+      "Sukisho",
+      "Sailor_Moon",
+      "Chaotic",
+      "Conan_the_Barbarian",
+      "Firefly_(TV_series)",
+      "Mortal_Kombat",
+      "Buffyverse",
+      "Nancy_Drew",
+      "Sam_&_Max",
+      "The_Shadow",
+      "Barbie",
+      "Kerberos_saga",
+      "The_Baby-Sitters_Club",
+      "Vampire_Hunter_D",
+      "View_Askewniverse",
+      "The_Mighty_Boosh",
+      "Buffyverse",
+      "Deltora",
+      "Zorro",
+      "Kashimashi:_Girl_Meets_Girl",
+      "Strawberry_Panic!",
+      "Naruto",
+      "Astro_Boy",
+      "Hellsing",
+      "Ranma_½",
+      "YuYu_Hakusho",
+      "Bleach_(manga)",
+      "Tenchi_Muyo!",
+      "One_Piece",
+      "Negima",
+      "Lupin_III",
+      "Rurouni_Kenshin",
+      "Doctor_Who",
+      "Cutie_Honey",
+      "Video_game_franchises",
+      "Ghost_in_the_Shell",
+      "World_of_Darkness",
+      "Record_of_Lodoss_War",
+      "Warhammer_Fantasy",
+      "Digimon",
+      "Science_fiction_by_franchise",
+      "Galaxy_Angel",
+      "Moomin_series",
+      "Little_House_series",
+      "Universal_Monsters",
+      "Betty_Boop",
+      "Felix_the_Cat",
+      "James_Bond",
+      "The_Beatles_Anthology",
+      "Lassie",
+      "Benji",
+      "The_House_of_the_Dead",
+      "Kerberos_saga",
+      "Da_Capo_II",
+      ".hack",
+      "Tokyo_Majin_Gakuen",
+      "Voltron",
+      "Sakura_Wars",
+      "Boogiepop_series",
+      "The_Saga_of_Darren_Shan",
+      "Television_franchises",
+      "World_of_Watches",
+      "Valley_of_the_Wolves",
+      "Scott_Pilgrim",
+      "Bratz",
+      "The_Lord_of_the_Rings",
+      "Bridget_Jones",
+      "The_Mummy_(franchise)",
+      "The_X-Files_(franchise)",
+      "The_Hardy_Boys",
+      "Inkheart_trilogy",
+      "Ripley's_Believe_It_or_Not!",
+      "Dirty_Pair",
+      "Woody_Woodpecker",
+      "Moshidora_(film)",
+      "Transporter_(franchise)",
+      "Golgo_13",
+      "Tetsujin_28-go",
+      "Myst_(series)",
+      "Rupert_Bear",
+      "Paddington_Bear",
+      "Princess_Minerva",
+      "Tie-in",
+      "Tintin",
+      "Girls_Gone_Wild_(franchise)",
+      "Queen's_Blade",
+      "Hyakka_Ryōran",
+      "Queen's_Blade",
+      "The_Warriors",
+      "Inspector_Gadget",
+      "Terminator_(franchise)",
+      "Patlabor",
+      "Willy_Wonka",
+      "Cat's_Eye_(manga)",
+      "National_Lampoon",
+      "Winx_Club_(franchise)",
+      "Charlie_and_the_Chocolate_Factory_(franchise)",
+      "Shiloh_(franchise)",
+      "City_Hunter",
+      "James_Bond",
+      "Entertainment_lists_by_franchise",
+      "Media_franchises_by_owner",
+      "Tantei_Opera_Milky_Holmes",
+      "Lone_Ranger",
+      "American_Girl",
+      "Green_Hornet",
+      "Rocky_Horror",
+      "Horror_fiction_by_franchise",
+      "Stargate",
+      "Psycho_(franchise)",
+      "Sam_&_Max",
+      "Fantasy_by_franchise",
+      "Star_Trek",
+      "Spawn_(comics)",
+      "Hamtaro",
+      "The_Familiar_of_Zero",
+      "Castle_(franchise)",
+      "Chouseishin_Series",
+      "Metal_Hero_Series",
+      "Ultra_Series",
+      "Tomica_Hero_Series",
+      "Sesame_Street",
+      "Idols_(TV_series)",
+      "Macross",
+      "Media_franchise",
+      "M.A.S.K.",
+      "Puella_Magi_Madoka_Magica",
+      "Cardcaptor_Sakura",
+      "Revolutionary_Girl_Utena",
+      "Magical_Girl_Lyrical_Nanoha",
+      "My-HiME_Project",
+      "Pretty_Cure",
+      "Littlest_Pet_Shop",
+      "Zatoichi",
+      "Final_Fantasy",
+      "Devilman",
+      "Brave_series",
+      "Eldran_series",
+      "High_School_Musical_(franchise)",
+      "All_That",
+      "Universe_of_Metro_2033",
+      "Ultra_Series",
+      "Idols_(TV_series)",
+      "List_of_multimedia_franchises",
+      "Dead_or_Alive_(series)",
+      "Tron_(franchise)",
+      "Carry_On_(franchise)",
+      "The_Simpsons_(franchise)",
+      "Heavy_Metal_(magazine)",
+      "Samurai_Champloo",
+      "Monica's_Gang",
+      "A_Nightmare_on_Elm_Street_(franchise)",
+      "Benji",
+      "Strange_as_It_Seems",
+      "Zorro",
+      "Filming_locations_by_franchise",
+      "Rosario_+_Vampire",
+      "Pokémon",
+      "Comedy_by_franchise",
+      "Fraggle_Rock",
+      "Tick_(comics)",
+      "Mad_(magazine)",
+      "Max_Headroom",
+      "Flash_Gordon",
+      "Buck_Rogers",
+      "Thunderbirds_(TV_series)",
+      "Asterix",
+      "Rainbow_Brite",
+      "Strawberry_Shortcake",
+      "The_Monkees_(TV_series)",
+      "The_Dark_Crystal",
+      "Cabbage_Patch_Kids",
+      "Pac-Man",
+      "Carmen_Sandiego",
+      "The_California_Raisins",
+      "Rugrats_and_All_Grown_Up!",
+      "Yokai_Monsters",
+      "Cowboy_Bebop",
+      "Attack_on_Titan",
+      "VeggieTales",
+      "The_Three_Stooges",
+      "Attack_of_the_Killer_Tomatoes",
+      "Attack_of_the_Killer_Tomatoes",
+      "Diary_of_a_Wimpy_Kid_(series)",
+      "Fictional_characters_by_franchise",
+      "The_Idolmaster",
+      "Inuyasha",
+      "Postman_Pat",
+      "Madeline",
+      "D.Gray-man",
+      "Cluedo",
+      "Neon_Genesis_Evangelion",
+      "Zoids",
+      "Neon_Genesis_Evangelion_(franchise)",
+      "JoJo's_Bizarre_Adventure",
+      "Blood:_The_Last_Vampire",
+      "Code_Geass",
+      "Tsubasa:_Reservoir_Chronicle",
+      "Magic_Knight_Rayearth",
+      "XxxHolic",
+      "Asterix",
+      "CSI_(franchise)",
+      "Harold_&_Kumar",
+      "Beyblade",
+      "The_Hunger_Games",
+      "The_Shadowhunter_Chronicles",
+      "Music_by_media_franchise",
+      "Ben-Hur",
+      "Zatoichi",
+      "The_Suite_Life_series",
+      "Ronin_Warriors",
+      "Venus_Project_(franchise)",
+      "Carlito's_Way",
+      "Woodstock_Festival",
+      "Ghost_in_the_Shell",
+      "Bikini_Warriors",
+      "Step_Up_(film_series)",
+      "Arrowverse",
+      "Barney_&_Friends",
+      "Blair_Witch",
+      "Tomie",
+      "Hellboy",
+      "Disney_Fairies",
+      "Final_Destination",
+      "Marvel_Cinematic_Universe",
+      "An_American_Tail",
+      "One_Missed_Call",
+      "Battlestar_Galactica",
+      "Alvin_and_the_Chipmunks_(disambiguation)",
+      "Scarface_(1983_film)",
+      "Ringu_cycle",
+      "Spider-Man",
+      "Batman",
+      "Superman",
+      "X-Men",
+      "DC_Extended_Universe",
+      "Daredevil_(Marvel_Comics)",
+      "Hellraiser_(franchise)",
+      "Sgt._Frog",
+      "Carrie",
+      "True_Blood",
+      "Silent_Hill",
+      "Pretty_Little_Liars",
+      "Tenchi_Muyo!",
+      "Dick_Tracy",
+      "Fritz_the_Cat",
+      "Li'l_Abner",
+      "Cerebus_the_Aardvark",
+      "Lucky_Luke",
+      "Little_Lulu",
+      "The_Bash_Street_Kids",
+      "Green_Lantern",
+      "Time_Bokan_Series",
+      "Tales_from_the_Crypt",
+      "From_Dusk_till_Dawn_(franchise)",
+      "Flash_(comics)",
+      "Dungeon_Siege",
+      "Fifty_Shades",
+      "Children_of_the_Corn",
+      "Animorphs",
+      "Pumpkinhead_(film_series)",
+      "Teen_Titans",
+      "Silver_Surfer",
+      "Doonesbury",
+      "Jonah_Hex",
+      "Doraemon",
+      "Judge_Dredd",
+      "Heathcliff_(comic_strip)",
+      "Looney_Tunes",
+      "Galinha_Pintadinha",
+      "Devilman",
+      "Whisker_Haven",
+      "Cisco_Kid",
+      "Krazy_Kat",
+      "Blondie_(comic_strip)",
+      "Malefic_Time",
+      "Bringing_Up_Father",
+      "Yo-kai_Watch",
+      "Rilu_Rilu_Fairilu",
+      "Media_mix",
+      "List_of_television_show_franchises",
+      "React_(media_franchise)",
+      "Pound_Puppies",
+      "Tokyo_Ghoul",
+      "Kanon_(visual_novel)",
+      "An_American_Tail_(franchise)",
+      "Mort_&_Phil",
+      "Hotel_Transylvania_(franchise)",
+      "Kick-Ass",
+      "Kamisama_Minarai:_Himitsu_no_Cocotama",
+      "Gundam",
+      "The_Expanse",
+      "The_Karate_Kid_(franchise)",
+      "The_Smurfs",
+      "The_Bund_(TV_series)",
+      "Air_Bud_(series)",
+      "Baahubali",
+      "Monsters_vs._Aliens_(franchise)",
+      "Stone_Protectors",
+      "Ryanverse",
+      "Cloverfield_(franchise)",
+      "Sword_Art_Online",
+      "Camp_Half-Blood_chronicles",
+      "Achille_Talon",
+      "De_beste_singer-songwriter",
+      "Legendz",
+      "Inazuma_Eleven",
+      "Captain_Tsubasa",
+      "Angry_Birds",
+      "Air_(series)",
+      "Alone_in_the_Dark",
+      "Angry_Birds",
+      "Ape_Escape",
+      "Ar_tonelico",
+      "BloodRayne",
+      "The_King_of_Fighters",
+      "Penny_Arcade_(webcomic)",
+      "Tomb_Raider",
+      "The_Witcher",
+      "The_Muppets",
+      "Kamen_Rider_Series",
+      "SpongeBob_SquarePants",
+      "The_Three_Bogatyrs",
+      "Love_Live!",
+      "Alex_Rider",
+      "Beyblade",
+      "Chander_Pahar_(franchise)",
+      "The_Exorcist",
+      "Westworld",
+      "Ghostbusters_(franchise)",
+      "God_Particle_(film)",
+      "Legally_Blonde",
+      "Legally_Blonde_(franchise)",
+      "RollerCoaster_Tycoon",
+      "Garfield",
+      "Cloudy_with_a_Chance_of_Meatballs_(franchise)",
+      "List_of_the_highest-grossing_media_franchises",
+      "Doom_(series)",
+      "S.H.I.E.L.D.",
+      "Finding_Nemo_(franchise)",
+      "Monsters,_Inc._(franchise)",
+      "Silent_Night,_Deadly_Night_(film_series)",
+      "Fifty_Shades",
+      "Buffy_the_Vampire_Slayer",
+      "Biker_Mice_from_Mars",
+      "Bucky_O'Hare",
+      "JFH:_Justice_For_Hire",
+      "Girlish_Number",
+      "Doctor_Who",
+      "The_Matrix_(franchise)",
+      "Corpse_Party",
+      "Magical_Girl_Lyrical_Nanoha_(series)",
+      "Ice_Age_(franchise)",
+      "Jumanji_(franchise)",
+      "Kemono_Friends",
+      "Woodstock",
+      "Westworld",
+      "Toy_Story_(franchise)",
+      "Merrie_Melodies",
+      "Dragon_Ball",
+      "The_Walking_Dead_(franchise)",
+      "Myself_;_Yourself",
+      "Timecop",
+      "Black_Widow_(Marvel_Comics)",
+      "Digimon",
+      "Despicable_Me_(franchise)",
+      "The_Grim_Adventures_of_Billy_&_Mandy",
+      "The_Avengers_(TV_series)",
+      "Dia_Horizon",
+      "The_Fairly_OddParents",
+      "Step_Up_(film_series)",
+      "The_Lego_Movie_(franchise)",
+      "The_Lost_Boys_(franchise)",
+      "BattleTech",
+      "Godzilla_(franchise)",
+      "The_Maze_Runner",
+      "Dick_Tracy",
+      "Scooby-Doo",
+      "Super_Sentai",
+      "Princess_Pring",
+      "Garfield",
+      "Child's_Play_(film_series)",
+      "Talking_Tom_and_Friends",
+      ".hack",
+      "Pokémon",
+      "Media_franchises_by_year_of_introduction",
+      "Child's_Play_(franchise)",
+      "The_Smurfs",
+      "Turok",
+      "Archie_Comics",
+      "Spirou_et_Fantasio",
+      "Ripley's_Believe_It_or_Not!",
+      "Spider-Woman",
+      "Assassin's_Creed",
+      "Cardfight!!_Vanguard",
+      "Barbie:_Dreamtopia",
+      "Stargate_Origins",
+      "Care_Bears",
+      "Rugrats_(franchise)"
+    ],
+    "terminology": [
+      {
+        "strip": 0.43009053407505593
+      },
+      {
+        "peanut": 0.4156337094002642
+      },
+      {
+        "brown": 0.3901954905232802
+      },
+      {
+        "snoopy": 0.31805014284541955
+      },
+      {
+        "special": 0.11949086206642573
+      },
+      {
+        "character": 0.08017470120199323
+      },
+      {
+        "comic": 0.06402686039521133
+      },
+      {
+        "brown snoopy": 0.061441504867865135
+      },
+      {
+        "patty": 0.061441504867865135
+      },
+      {
+        "peanut character": 0.061441504867865135
+      },
+      {
+        "musical": 0.052230892432250105
+      },
+      {
+        "comic strip": 0.05059888636177129
+      },
+      {
+        "panel": 0.04838385060944378
+      },
+      {
+        "first": 0.04676857570116271
+      },
+      {
+        "also": 0.04543233068112949
+      },
+      {
+        "new": 0.044922926650311445
+      },
+      {
+        "year": 0.04142359562102983
+      },
+      {
+        "park": 0.03763188380734517
+      },
+      {
+        "television": 0.03699732187937856
+      },
+      {
+        "paramount": 0.03614206168697949
+      },
+      {
+        "syndicate": 0.03379645980910301
+      },
+      {
+        "animated": 0.03298353414298765
+      },
+      {
+        "cedar": 0.032527855518281544
+      },
+      {
+        "television special": 0.032527855518281544
+      },
+      {
+        "including": 0.03219286453526833
+      },
+      {
+        "published": 0.03219286453526833
+      },
+      {
+        "released": 0.029397390440730847
+      },
+      {
+        "appeared": 0.029103118361459693
+      },
+      {
+        "boy named": 0.028913649349583594
+      },
+      {
+        "folk": 0.028913649349583594
+      }
+    ]
+  },
+  "Media_industry": {
+    "linked_categories": [
+      "Media_franchises"
+    ],
+    "linked_pages_to_category": [
+      "Big_Apple_Comic_Con",
+      "Catholic_Media_Council",
+      "Journal_of_Media_Business_Studies",
+      "Media_economics",
+      "Media_franchises",
+      "Veronis_Suhler_Stevenson",
+      "Comics_industry",
+      "Mass_media_rivalries",
+      "Content_industry",
+      "Media_industry_businesspeople",
+      "Dispersal_of_ownership",
+      "Video_game_industry",
+      "Publishing",
+      "Music_industry",
+      "Media_companies",
+      "Commercial_circulating_libraries",
+      "Film_industry",
+      "Media_reform",
+      "Animation_industry",
+      "Media_management",
+      "Subscription_business_model",
+      "AED_Studios",
+      "Boston_Comic_Con",
+      "Publishing",
+      "Concentration_of_media_ownership",
+      "Mass_media_by_owner",
+      "Media_franchise",
+      "List_of_the_highest-grossing_media_franchises",
+      "Press_support",
+      "Art_release",
+      "Media_Hegemony",
+      "Berkshire_Hathaway",
+      "Television_industry",
+      "Works_about_media_industries",
+      "Radio_industry"
+    ],
+    "terminology": [
+      {
+        "convention": 0.36193159994263974
+      },
+      {
+        "show": 0.28400762401332824
+      },
+      {
+        "comic": 0.2603403220122175
+      },
+      {
+        "big": 0.24128773329509315
+      },
+      {
+        "apple": 0.23200743586066647
+      },
+      {
+        "big apple": 0.23200743586066647
+      },
+      {
+        "held": 0.1577650563852532
+      },
+      {
+        "con": 0.1392044615163999
+      },
+      {
+        "new": 0.12423655533747988
+      },
+      {
+        "comic book": 0.11833651000555344
+      },
+      {
+        "apple comic": 0.10208327177869325
+      },
+      {
+        "big apple comic": 0.10208327177869325
+      },
+      {
+        "comic con": 0.0928029743442666
+      },
+      {
+        "wizard": 0.0928029743442666
+      },
+      {
+        "book": 0.09204600033140686
+      },
+      {
+        "apple comic con": 0.08352267690983993
+      },
+      {
+        "big apple comic con": 0.08352267690983993
+      },
+      {
+        "city": 0.07889100667036895
+      },
+      {
+        "apple convention": 0.06496208204098662
+      },
+      {
+        "art": 0.06496208204098662
+      },
+      {
+        "big apple convention": 0.06496208204098662
+      },
+      {
+        "contest": 0.06496208204098662
+      },
+      {
+        "costume": 0.06496208204098662
+      },
+      {
+        "costume contest": 0.06496208204098662
+      },
+      {
+        "march": 0.06496208204098662
+      },
+      {
+        "new city": 0.06311280533629517
+      },
+      {
+        "pavilion": 0.05568178460655995
+      },
+      {
+        "national": 0.04831421596457551
+      },
+      {
+        "year": 0.04831421596457551
+      },
+      {
+        "day": 0.04733460400222137
+      }
+    ]
+  },
+  "Sequels": {
+    "linked_categories": [
+      "Media_franchises"
+    ],
+    "linked_pages_to_category": [
+      "Sequel_novels",
+      "Sequel_films",
+      "Film_spin-offs",
+      "Spiritual_successor",
+      "Video_game_sequels",
+      "One_Man_and_His_Log",
+      "Media_franchise",
+      "Click,_Clack,_Splish,_Splash",
+      "Alan_Parker,_Road_Warrior",
+      "Sequel_albums",
+      "Sequel_plays",
+      "Sequel_songs",
+      "Sequel_television_series",
+      "Sequel_comics",
+      "Boy_Meets_Girl:_Say_Hello_to_Courtship",
+      "Julien_(opera)",
+      "Marry_Me_(short_story_collection)",
+      "The_Gruffalo's_Child",
+      "Midquel",
+      "Comics_spin-offs",
+      "Media_franchises",
+      "Ophelia's_Mom",
+      "Odyssey",
+      "Sequel",
+      "Epigoni_(epic)"
+    ],
+    "terminology": [
+      {
+        "displayed": 0.3217593147653227
+      },
+      {
+        "may displayed": 0.3217593147653227
+      },
+      {
+        "message": 0.3217593147653227
+      },
+      {
+        "message may": 0.3217593147653227
+      },
+      {
+        "message may displayed": 0.3217593147653227
+      },
+      {
+        "reason": 0.3217593147653227
+      },
+      {
+        "reason message": 0.3217593147653227
+      },
+      {
+        "reason message may": 0.3217593147653227
+      },
+      {
+        "reason message may displayed": 0.3217593147653227
+      },
+      {
+        "may": 0.26122498015264506
+      }
+    ]
+  },
+  "Series": {
+    "linked_categories": [
+      "Media_franchises"
+    ],
+    "linked_pages_to_category": [
+      "Film_series",
+      "Television_series",
+      "Album_series",
+      "Literary_series",
+      "Media_franchises",
+      "Painting_series",
+      "Trilogies",
+      "Sculpture_series",
+      "Sports_competition_series",
+      "Media_series",
+      "Soap_operas",
+      "Serial_(publishing)",
+      "Barbie:_Dreamtopia_(series)"
+    ],
+    "terminology": [
+      {
+        "film": 0.24380290228085366
+      },
+      {
+        "series": 0.2089739162407317
+      },
+      {
+        "film series": 0.10534624490844036
+      },
+      {
+        "highest": 0.10534624490844036
+      },
+      {
+        "universe": 0.10534624490844036
+      },
+      {
+        "franchise": 0.08955393260284593
+      },
+      {
+        "star war": 0.07834910870547816
+      },
+      {
+        "war": 0.07834910870547816
+      },
+      {
+        "movie": 0.06965797208024391
+      },
+      {
+        "star": 0.06965797208024391
+      },
+      {
+        "work": 0.06965797208024391
+      },
+      {
+        "adjusted inflation": 0.05267312245422018
+      },
+      {
+        "also referred film": 0.05267312245422018
+      },
+      {
+        "also referred film franchise": 0.05267312245422018
+      },
+      {
+        "also referred film franchise movie": 0.05267312245422018
+      },
+      {
+        "always": 0.05267312245422018
+      },
+      {
+        "always successful": 0.05267312245422018
+      },
+      {
+        "always successful enough": 0.05267312245422018
+      },
+      {
+        "always successful enough spawn": 0.05267312245422018
+      },
+      {
+        "always successful enough spawn installment": 0.05267312245422018
+      },
+      {
+        "beginning multiple": 0.05267312245422018
+      },
+      {
+        "beginning multiple film": 0.05267312245422018
+      },
+      {
+        "beginning multiple film work": 0.05267312245422018
+      },
+      {
+        "beginning multiple film work example": 0.05267312245422018
+      },
+      {
+        "bond peter": 0.05267312245422018
+      },
+      {
+        "bond peter lord": 0.05267312245422018
+      },
+      {
+        "bond peter lord ring": 0.05267312245422018
+      },
+      {
+        "bond peter lord ring series": 0.05267312245422018
+      },
+      {
+        "case success": 0.05267312245422018
+      },
+      {
+        "case success original": 0.05267312245422018
+      }
+    ]
+  },
+  "Superheroes_by_publisher": {
+    "linked_categories": [
+      "DC_Comics_superheroes"
+    ],
+    "linked_pages_to_category": [
+      "Image_Comics_superheroes",
+      "DC_Comics_superheroes",
+      "Charlton_Comics_superheroes",
+      "Archie_Comics_superheroes",
+      "Fawcett_Comics_superheroes",
+      "Quality_Comics_superheroes",
+      "Nedor_Comics_superheroes",
+      "Harvey_Comics_superheroes",
+      "America's_Best_Comics_superheroes",
+      "Fox_Feature_Syndicate_superheroes",
+      "Eclipse_Comics_superheroes",
+      "Marvel_Comics_superheroes",
+      "Dark_Horse_Comics_superheroes",
+      "Wildstorm_Publications_superheroes",
+      "Raj_Comics_superheroes",
+      "Milestone_Media_superheroes"
+    ],
+    "terminology": [
+      {
+        "displayed": 0.31622776601683794
+      },
+      {
+        "may": 0.31622776601683794
+      },
+      {
+        "may displayed": 0.31622776601683794
+      },
+      {
+        "message": 0.31622776601683794
+      },
+      {
+        "message may": 0.31622776601683794
+      },
+      {
+        "message may displayed": 0.31622776601683794
+      },
+      {
+        "reason": 0.31622776601683794
+      },
+      {
+        "reason message": 0.31622776601683794
+      },
+      {
+        "reason message may": 0.31622776601683794
+      },
+      {
+        "reason message may displayed": 0.31622776601683794
+      }
+    ]
+  },
+  "Western_culture": {
+    "linked_categories": [
+      "Media_franchises"
+    ],
+    "linked_pages_to_category": [
+      "Western_philosophy",
+      "Renaissance",
+      "Europeanisation",
+      "Postmodernity",
+      "Western_cuisine",
+      "Western_law",
+      "Western_religions",
+      "Theorists_on_Western_civilization",
+      "Western_dress_codes",
+      "Cultural_Christian",
+      "Cognitive_revolution",
+      "Hand-kissing",
+      "European_culture",
+      "Western_art",
+      "Western_Christianity",
+      "Media_franchise",
+      "Classical_tradition",
+      "Outline_of_the_history_of_Western_civilization",
+      "Persian_literature_in_Western_culture",
+      "History_of_Western_civilization_before_AD_500",
+      "Fin_de_siècle",
+      "Western_culture",
+      "Western_philosophy",
+      "Being_Different",
+      "Age_of_Enlightenment",
+      "North_American_culture",
+      "Oceanian_culture",
+      "Classical_reception_studies",
+      "Western_influences_in_modern_Japanese_music",
+      "Christianity",
+      "Pornographication",
+      "History_of_citizenship",
+      "Christian_culture",
+      "Christian_culture",
+      "Western_culture-centric",
+      "Media_franchises",
+      "Americanization",
+      "Classical_antiquity",
+      "Belong_(play)",
+      "Western_culture",
+      "Western_canon",
+      "Renaissance",
+      "Islamic_world_contributions_to_Medieval_Europe",
+      "Western_Christianity",
+      "Greco-Roman_world",
+      "Abrahamic_religions",
+      "Judeo-Christian",
+      "Western_media",
+      "Western_literature",
+      "Pop_music",
+      "Western_world",
+      "Western_esotericism",
+      "Western_astrology",
+      "South_American_culture",
+      "Anime-influenced_Western_animation",
+      "History_of_Western_civilization",
+      "Westernization",
+      "Artistic_merit",
+      "Ancient_Greek_literature"
+    ],
+    "terminology": [
+      {
+        "philosophy": 0.4649994964423467
+      },
+      {
+        "philosopher": 0.1791741178952162
+      },
+      {
+        "analytic": 0.14193741721491995
+      },
+      {
+        "work": 0.12475632297991558
+      },
+      {
+        "philosophical": 0.12065977203206939
+      },
+      {
+        "logic": 0.11517523693970261
+      },
+      {
+        "science": 0.09577886061206418
+      },
+      {
+        "metaphysics": 0.09323709657023543
+      },
+      {
+        "century": 0.09120324395510954
+      },
+      {
+        "problem": 0.09032381095494907
+      },
+      {
+        "th": 0.07862348616819788
+      },
+      {
+        "th century": 0.06918866782801412
+      },
+      {
+        "world": 0.06896077964068623
+      },
+      {
+        "analytic philosophy": 0.06451700782496361
+      },
+      {
+        "branch": 0.06451700782496361
+      },
+      {
+        "natural": 0.05757984137534566
+      },
+      {
+        "thought": 0.05757984137534566
+      },
+      {
+        "study": 0.053636161942755944
+      },
+      {
+        "influential": 0.04936081583130112
+      },
+      {
+        "structuralism": 0.04936081583130112
+      },
+      {
+        "continental": 0.04798320114612138
+      },
+      {
+        "knowledge": 0.04798320114612138
+      },
+      {
+        "language": 0.04798320114612138
+      },
+      {
+        "method": 0.04798320114612138
+      },
+      {
+        "nature": 0.04798320114612138
+      },
+      {
+        "human": 0.046926554686842335
+      },
+      {
+        "later": 0.046926554686842335
+      },
+      {
+        "phenomenology": 0.045161905477474534
+      },
+      {
+        "mathematics": 0.04387628073893433
+      },
+      {
+        "mind": 0.04387628073893433
+      }
+    ]
+  },
+  "Works_set_in_fictional_populated_places": {
+    "linked_categories": [
+      "Comics_set_in_fictional_populated_places"
+    ],
+    "linked_pages_to_category": [
+      "Television_series_set_in_fictional_populated_places",
+      "Films_set_in_fictional_populated_places",
+      "Video_games_set_in_fictional_populated_places",
+      "Novels_set_in_fictional_populated_places",
+      "Comics_set_in_fictional_populated_places",
+      "List_of_Prostokvashino_books"
+    ],
+    "terminology": [
+      {
+        "displayed": 0.3162277660168379
+      },
+      {
+        "may": 0.3162277660168379
+      },
+      {
+        "may displayed": 0.3162277660168379
+      },
+      {
+        "message": 0.3162277660168379
+      },
+      {
+        "message may": 0.3162277660168379
+      },
+      {
+        "message may displayed": 0.3162277660168379
+      },
+      {
+        "reason": 0.3162277660168379
+      },
+      {
+        "reason message": 0.3162277660168379
+      },
+      {
+        "reason message may": 0.3162277660168379
+      },
+      {
+        "reason message may displayed": 0.3162277660168379
+      }
+    ]
+  }
+}

@@ -258,7 +258,7 @@ class Builder(object):
 			downloaded_pages = []
 			# For every pages linked to this wategory on Wiki
 			for page in pages:
-				sys.stdout.write('\t{} / {} pages downloaded for [{}] category.\r'.format(len(children_pages), len(pages), parent))
+				sys.stdout.write('\t{} / {} pages downloaded for [{}] category.\r'.format(len(children_pages)-1, len(pages), parent))
 				sys.stdout.flush()
 				# Get data
 				wiki_url = 'https://en.wikipedia.org/wiki/{}'.format(page)
