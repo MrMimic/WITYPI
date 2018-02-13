@@ -36,6 +36,7 @@ __status__ = 'Alpha'
 # SO feed to get some informations :	https://stackoverflow.com/questions/17432254/wikipedia-category-hierarchy-from-dumps
 # Relation explanations:				https://kodingnotes.wordpress.com/2014/12/03/parsing-wikipedia-page-hierarchy/
 # Wikipedia manuals:					https://www.mediawiki.org/wiki/Manual:Categorylinks_table
+# Ontology creation: 					https://www.ccri.com/2018/01/22/deep-learning-ontology-development/
 
 
 class Builder(object):
