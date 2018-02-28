@@ -31,7 +31,7 @@ Then, by using pip3 after sourcing your virtualenv:
 
 ## CONFIGURATION
 
-blabla
+Configuration file
 
 ## LAUNCH
 
