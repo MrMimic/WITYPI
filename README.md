@@ -18,7 +18,7 @@ On Wiki, categories are linked together, and pages belong to these categories.
 
 By creating a network graph between categories and applying TF-IDF on the vocabulary contained in all pages of every categories, we can extract important vocabulary for every class.
 
-## INSTALLATION
+## INSTALLATION on UNIX systems
 
 First, create a virtual environnement.
 
