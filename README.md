@@ -35,6 +35,6 @@ Configuration file
 
 ## LAUNCH
 
-Simply launch
+Then, simply launch
 
 	python3 __main__.py
