@@ -10,7 +10,7 @@ __WI__ kipedia  .  __T__ erminolog __Y  .  PI__ cker .
 
 *****
 
-## ABOUT
+## ABOUT WITYPI
 
 WITYPI is a Python3 project aiming to automatically design a terminology by using the Wikipedia's DB (unsuppervised learning).
 
