@@ -25,15 +25,15 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 # INFORMATIONS
 __author__ = 'Emeric DYNOMANT'
 __copyright__ = 'CC'
-__version__ = '1.0'
+__version__ = '1.1'
 __maintainer__ = 'Emeric DYNOMANT'
 __email__ = 'emeric.dynomant@gmail.com'
-__status__ = 'Alpha'
+__status__ = 'Beta'
 
 
 # DOCUMENTATION
 # Wiki dumps DL page: 					https://dumps.wikimedia.org/enwiki/20171220/
-# SO feed to get some informations :	https://stackoverflow.com/questions/17432254/wikipedia-category-hierarchy-from-dumps
+# SO feed to get some informations:		https://stackoverflow.com/questions/17432254/wikipedia-category-hierarchy-from-dumps
 # Relation explanations:				https://kodingnotes.wordpress.com/2014/12/03/parsing-wikipedia-page-hierarchy/
 # Wikipedia manuals:					https://www.mediawiki.org/wiki/Manual:Categorylinks_table
 # Ontology creation: 					https://www.ccri.com/2018/01/22/deep-learning-ontology-development/
@@ -291,8 +291,11 @@ class Builder(object):
 			# StdOut summary
 			print('\n\t\t- ' + '\n\t\t- '.join(downloaded_pages))
 			# TF_IDF for vocabulary of each category and get top score
-			tf = TfidfVectorizer(analyzer='word', ngram_range=(1,5), min_df=0, stop_words=self.stopwords)
-			tfidf_matrix = tf.fit_transform(children_pages)
+			tf = TfidfVectorizer(analyzer='word', ngram_range=(1, 5), min_df=0, stop_words=self.stopwords)
+			try:
+				tfidf_matrix = tf.fit_transform(children_pages)
+			except ValueError:  # In case of an old empty page
+				continue
 			feature_names = tf.get_feature_names()
 			dense = tfidf_matrix.todense()
 			episode = dense[0].tolist()[0]
@@ -334,11 +337,17 @@ class Builder(object):
 if __name__ == '__main__':
 
 	ChuckNorris = Builder()
+	# Get entry term
 	top_term = re.sub(' ', '_', input('Please enter a term: '))
+	# Download wikipedia DB if requested
 	ChuckNorris.download_data()
 	ChuckNorris.extract_data()
 	ChuckNorris.insert_data()
+	# Build categories relationships
 	relations = ChuckNorris.build_relations(top_term=top_term, number_of_categories=5)
+	# Get pages linked to every category
 	linked_pages = ChuckNorris.get_linked_pages(relations=relations)
+	# Extract important vocabulary
 	terminology = ChuckNorris.get_vocabulary(linked_pages=linked_pages, categories_links=relations)
+	# Write JSON file
 	ChuckNorris.write_terminology(terminology=terminology, top_term=top_term)
