@@ -1,10 +1,10 @@
 # WITYPI 
 
- __WI__kipedia
+ __WI__ kipedia
 
- __T__erminolog __Y__
+ __T__ erminolog __Y__
 
- __PI__cker
+ __PI__ cker
 
 *****
 
