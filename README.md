@@ -1,8 +1,8 @@
 # WITYPI 
 
-__WI__ kipedia
-__T__ erminolog __Y
-PI__ cker .
+__WI__kipedia
+__T__erminolog __Y
+PI__cker .
 
 *****
 
