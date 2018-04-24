@@ -35,7 +35,7 @@ Then, by using pip3 after sourcing your virtualenv:
 
 ## CONFIGURATION
 
-Configuration file
+LipSuM
 
 ## LAUNCH
 
