@@ -6,7 +6,6 @@
 
  __PI__ cker
 
-*****
 
 ![PyPI status](https://img.shields.io/badge/stage-alpha-green.svg)
 ![PyPI status](https://img.shields.io/badge/licence-CC-red.svg)
