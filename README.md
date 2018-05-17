@@ -15,7 +15,7 @@
 
 ## ABOUT WITYPI
 
-WITYPI is a Python project with the aim to automatically design a terminology by using the Wikipedia's DB (unsuppervised learning).
+WITYPI is a Python project with the aim to automatically design a terminology by using the Wikipedia's DB (kind of unsuppervised learning).
 
 On Wiki, categories are linked together, and pages belong to these categories.
 
