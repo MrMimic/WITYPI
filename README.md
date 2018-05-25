@@ -9,7 +9,7 @@
 
 ![PyPI status](https://img.shields.io/badge/stage-alpha-green.svg)
 ![PyPI status](https://img.shields.io/badge/licence-CC-red.svg)
-![PyPI status](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![PyPI status](https://img.shields.io/badge/version-1.0.1-blue.svg)
 
 *****
 
